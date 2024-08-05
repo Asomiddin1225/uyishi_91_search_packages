@@ -1,6 +1,6 @@
 import 'dart:math';
 
-class Searchs {
+class SearchsAsom {
   int binarySearch(List<int> list, int target) {
     int left = 0;
     int right = list.length - 1;
